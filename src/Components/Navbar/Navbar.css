@@ -1,0 +1,39 @@
+.headlines {
+  height: 50px;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 3rem;
+  background-color: aquamarine;
+}
+
+.navlist {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.album {
+  color: antiquewhite;
+  margin: 3%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2rem;
+  text-decoration: underline;
+}
+
+.heading {
+  font-size: 85px;
+}
